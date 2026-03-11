@@ -1,6 +1,6 @@
-# Singlish Converter (සිංහල පරිවර්තකය)
+# Singlish Converter 
 
-මේක සරල සහ පහසු Singlish Converter එකක්. ඔයාට Singlish වලින් (ඉංග්‍රීසි අකුරු වලින්) සිංහල වචන ටයිප් කරන්න පුළුවන්.
+මේක සරල සහ පහසු Singlish Converter එකක්. ඔයාට Singlish වලින්  සිංහල වචන ටයිප් කරන්න පුළුවන්.
 
 ## විශේෂාංග
 
